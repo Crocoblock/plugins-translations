@@ -1,0 +1,1312 @@
+{
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural_forms": "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);",
+        "lang": "ru"
+      },
+      "Select...": [
+        null,
+        ""
+      ],
+      "List": [
+        ""
+      ],
+      "Calendar": [
+        ""
+      ],
+      "Timeline": [
+        ""
+      ],
+      "Done!": [
+        null,
+        ""
+      ],
+      "15 minutes": [
+        null,
+        ""
+      ],
+      "30 minutes": [
+        null,
+        ""
+      ],
+      "1 hours": [
+        null,
+        ""
+      ],
+      "The slot duration cannot be less than one minute!": [
+        null,
+        ""
+      ],
+      "Date is not correct": [
+        null,
+        ""
+      ],
+      "Time is not correct": [
+        null,
+        ""
+      ],
+      "You cannot use the \"-\" character in the table name, it was automatically changed to the \"_\" character!": [
+        null,
+        ""
+      ],
+      "This column already exists in the table!": [
+        null,
+        ""
+      ],
+      "Are you sure? If you change or remove any columns, all data stored in this columns will be lost!": [
+        null,
+        ""
+      ],
+      "Slot Duration": [
+        null,
+        ""
+      ],
+      "Buffer Before Slot": [
+        null,
+        ""
+      ],
+      "Buffer After Slot": [
+        null,
+        ""
+      ],
+      "Access denied": [
+        null,
+        ""
+      ],
+      "Empty data or post ID not found!": [
+        null,
+        ""
+      ],
+      "Failed to save data!": [
+        null,
+        ""
+      ],
+      "Settings saved!": [
+        null,
+        ""
+      ],
+      "Monday": [
+        null,
+        ""
+      ],
+      "Tuesday": [
+        null,
+        ""
+      ],
+      "Wednesday": [
+        null,
+        ""
+      ],
+      "Thursday": [
+        null,
+        ""
+      ],
+      "Friday": [
+        null,
+        ""
+      ],
+      "Saturday": [
+        null,
+        ""
+      ],
+      "Sunday": [
+        null,
+        ""
+      ],
+      "Custom Schedule": [
+        null,
+        ""
+      ],
+      "Select Time": [
+        null,
+        ""
+      ],
+      "Appointments Settings": [
+        null,
+        ""
+      ],
+      "Price per slot": [
+        null,
+        ""
+      ],
+      "Capacity": [
+        null,
+        ""
+      ],
+      "Settings": [
+        null,
+        ""
+      ],
+      "Set Up": [
+        null,
+        ""
+      ],
+      "Appointments": [
+        null,
+        ""
+      ],
+      "ID": [
+        null,
+        ""
+      ],
+      "User ID": [
+        null,
+        ""
+      ],
+      "User e-mail": [
+        null,
+        ""
+      ],
+      "Provider": [
+        null,
+        "Provider  Test"
+      ],
+      "Service": [
+        null,
+        ""
+      ],
+      "Date": [
+        null,
+        ""
+      ],
+      "Start Time": [
+        null,
+        ""
+      ],
+      "End Time": [
+        null,
+        ""
+      ],
+      "Status": [
+        null,
+        ""
+      ],
+      "Related Order": [
+        null,
+        ""
+      ],
+      "Phone": [
+        null,
+        ""
+      ],
+      "Comments": [
+        null,
+        ""
+      ],
+      "Actions": [
+        null,
+        ""
+      ],
+      "Clear": [
+        null,
+        ""
+      ],
+      "Search": [
+        null,
+        ""
+      ],
+      "JetAppointments": [
+        null,
+        ""
+      ],
+      "Advanced": [
+        null,
+        ""
+      ],
+      "General Settings": [
+        null,
+        ""
+      ],
+      "Labels": [
+        null,
+        ""
+      ],
+      "Tools": [
+        null,
+        ""
+      ],
+      "Working Hours": [
+        null,
+        ""
+      ],
+      "Jet Appointments Booking: add booking to Google calendar": [
+        null,
+        ""
+      ],
+      "Appointment Calendar": [
+        null,
+        ""
+      ],
+      "Calendar Width": [
+        null,
+        ""
+      ],
+      "Padding": [
+        null,
+        ""
+      ],
+      "Margin": [
+        null,
+        ""
+      ],
+      "Header": [
+        null,
+        ""
+      ],
+      "Header Background Color": [
+        null,
+        ""
+      ],
+      "Header Text Color": [
+        null,
+        ""
+      ],
+      "Arrows default color": [
+        null,
+        ""
+      ],
+      "Arrows hover color": [
+        null,
+        ""
+      ],
+      "Weekdays/Names": [
+        null,
+        ""
+      ],
+      "Color": [
+        null,
+        ""
+      ],
+      "Background Color": [
+        null,
+        ""
+      ],
+      "Vertical Gap": [
+        null,
+        ""
+      ],
+      "Weekdays/Dates": [
+        null,
+        ""
+      ],
+      "Hover Color": [
+        null,
+        ""
+      ],
+      "Active Color": [
+        null,
+        ""
+      ],
+      "Today Color": [
+        null,
+        ""
+      ],
+      "Slots": [
+        null,
+        ""
+      ],
+      "Container Padding": [
+        null,
+        ""
+      ],
+      "Normal": [
+        null,
+        ""
+      ],
+      "Active": [
+        null,
+        ""
+      ],
+      "Border Color": [
+        null,
+        ""
+      ],
+      "Border": [
+        null,
+        ""
+      ],
+      "Border Radius": [
+        null,
+        ""
+      ],
+      "Slots Close Button Color": [
+        null,
+        ""
+      ],
+      "Slots Close Button Hover Color": [
+        null,
+        ""
+      ],
+      "Close Button Size": [
+        null,
+        ""
+      ],
+      "Close Button Vertical Position": [
+        null,
+        ""
+      ],
+      "Close Button Horizontal Position": [
+        null,
+        ""
+      ],
+      "Appointment Macros:": [
+        null,
+        ""
+      ],
+      "Name of the appointment service.": [
+        null,
+        ""
+      ],
+      "Name of the appointment provider.": [
+        null,
+        ""
+      ],
+      "Link of the appointment service.": [
+        null,
+        ""
+      ],
+      "Link of the appointment provider.": [
+        null,
+        ""
+      ],
+      "Displays the date and time the appointment started. You can set the format for the date. %1$sRead more%2$s about the time format. For example: %3$s%%appointment_start|format_date(F j, Y g:i)%%%4$s": [
+        null,
+        ""
+      ],
+      "Displays the date and time the appointment end. Also accepts date format.": [
+        null,
+        ""
+      ],
+      "Insert appointment": [
+        null,
+        ""
+      ],
+      "Appointment date": [
+        null,
+        ""
+      ],
+      "Appointment provider": [
+        null,
+        ""
+      ],
+      "Booking ID not found in the request": [
+        null,
+        ""
+      ],
+      "Error": [
+        null,
+        ""
+      ],
+      "Booking not found in the database": [
+        null,
+        ""
+      ],
+      "Can`t build add to calendar URL": [
+        null,
+        ""
+      ],
+      "Your appointment at \"%1$s\" with %2$s - %3$s ": [
+        null,
+        ""
+      ],
+      "Any status": [
+        null,
+        ""
+      ],
+      "Appointments Query": [
+        null,
+        ""
+      ],
+      "User": [
+        null,
+        ""
+      ],
+      "All": [
+        null,
+        ""
+      ],
+      "Current User": [
+        null,
+        ""
+      ],
+      "Specific User ID": [
+        null,
+        ""
+      ],
+      "Queried User": [
+        null,
+        ""
+      ],
+      "Any": [
+        null,
+        ""
+      ],
+      "Future appointments": [
+        null,
+        ""
+      ],
+      "Past appointments": [
+        null,
+        ""
+      ],
+      "After date": [
+        null,
+        ""
+      ],
+      "Up to date": [
+        null,
+        ""
+      ],
+      "Custom date": [
+        null,
+        ""
+      ],
+      "User Appointments": [
+        null,
+        ""
+      ],
+      "Appointment": [
+        null,
+        ""
+      ],
+      "<b>WARNING!</b> <b>JetAppointmentsBooking</b> plugin requires <b>JetEngine</b> plugin to work properly!": [
+        null,
+        ""
+      ],
+      "Go to settings": [
+        null,
+        ""
+      ],
+      "No available slots": [
+        null,
+        ""
+      ],
+      "Appointment ID is not found in request": [
+        null,
+        ""
+      ],
+      "No data to update": [
+        null,
+        ""
+      ],
+      "Booking Form": [
+        null,
+        ""
+      ],
+      "Single Service Booking Form": [
+        null,
+        ""
+      ],
+      "Static Page Booking Form": [
+        null,
+        ""
+      ],
+      "More information about %s": [
+        null,
+        ""
+      ],
+      "View details": [
+        null,
+        ""
+      ],
+      "Appointments Start Time": [
+        null,
+        ""
+      ],
+      "Appointments End Time": [
+        null,
+        ""
+      ],
+      "Time": [
+        null,
+        ""
+      ],
+      "Add": [
+        null,
+        ""
+      ],
+      "Link is expired": [
+        null,
+        ""
+      ],
+      "You don`t have access to this post": [
+        null,
+        ""
+      ],
+      "Are you sure?": [
+        null,
+        ""
+      ],
+      "Start with some basic settings before using": [
+        null,
+        ""
+      ],
+      "Go to setup": [
+        null,
+        ""
+      ],
+      "Set up WooCommerce order details": [
+        null,
+        ""
+      ],
+      "Type": [
+        null,
+        ""
+      ],
+      "Select type...": [
+        null,
+        ""
+      ],
+      "Service name": [
+        null,
+        ""
+      ],
+      "Provider name": [
+        null,
+        ""
+      ],
+      "Time slot start": [
+        null,
+        ""
+      ],
+      "Time slot end": [
+        null,
+        ""
+      ],
+      "Full time slot": [
+        null,
+        ""
+      ],
+      "Full date and time": [
+        null,
+        ""
+      ],
+      "Form field": [
+        null,
+        ""
+      ],
+      "Add to Google calendar link": [
+        null,
+        ""
+      ],
+      "Label": [
+        null,
+        ""
+      ],
+      "Date format": [
+        null,
+        ""
+      ],
+      "Formatting docs": [
+        null,
+        ""
+      ],
+      "Time format": [
+        null,
+        ""
+      ],
+      "Date/Time format": [
+        null,
+        ""
+      ],
+      "Select form field": [
+        null,
+        ""
+      ],
+      "Select field...": [
+        null,
+        ""
+      ],
+      "Link text": [
+        null,
+        ""
+      ],
+      "Add new item": [
+        null,
+        ""
+      ],
+      "Save": [
+        null,
+        ""
+      ],
+      "Saving...": [
+        null,
+        ""
+      ],
+      "Cancel": [
+        null,
+        ""
+      ],
+      "Use Custom Schedule": [
+        null,
+        ""
+      ],
+      "You can use a custom schedule for services or providers.": [
+        null,
+        ""
+      ],
+      "Appointment Specific Settings": [
+        null,
+        ""
+      ],
+      "Get Service ID From:": [
+        null,
+        ""
+      ],
+      "Not Selected": [
+        null,
+        ""
+      ],
+      "Current Post ID": [
+        null,
+        ""
+      ],
+      "Form Field": [
+        null,
+        ""
+      ],
+      "Manual Input": [
+        null,
+        ""
+      ],
+      "Select Service Field <i>(for <b>Form Field</b> option)</i>:": [
+        null,
+        ""
+      ],
+      "Set Service ID <i>(for <b>Manual Input</b> option)</i>:": [
+        null,
+        ""
+      ],
+      "Get Provider ID From:": [
+        null,
+        ""
+      ],
+      "Select Provider Field <i>(for <b>Form Field</b> option)</i>:": [
+        null,
+        ""
+      ],
+      "Set Provider ID <i>(for <b>Manual Input</b> option)</i>:": [
+        null,
+        ""
+      ],
+      "Provider Specific Settings": [
+        null,
+        ""
+      ],
+      "Use Custom Template For Items:": [
+        null,
+        ""
+      ],
+      "No": [
+        null,
+        ""
+      ],
+      "Yes": [
+        null,
+        ""
+      ],
+      "Custom Template ID:": [
+        null,
+        ""
+      ],
+      "Switch Page on Change:": [
+        null,
+        ""
+      ],
+      "Service ID field:": [
+        null,
+        ""
+      ],
+      "Service ID": [
+        null,
+        ""
+      ],
+      "Provider ID field:": [
+        null,
+        ""
+      ],
+      "Provider ID": [
+        null,
+        ""
+      ],
+      "Appointment date field:": [
+        null,
+        ""
+      ],
+      "User e-mail field:": [
+        null,
+        ""
+      ],
+      " field:": [
+        null,
+        ""
+      ],
+      "WooCommerce Price field:": [
+        null,
+        ""
+      ],
+      "Select field to get total price from. If not selected price will be get from post meta value.": [
+        null,
+        ""
+      ],
+      "WooCommerce order details:": [
+        null,
+        ""
+      ],
+      "Set up booking-related info you want to add to the WooCommerce orders and e-mails": [
+        null,
+        ""
+      ],
+      "Set up": [
+        null,
+        ""
+      ],
+      "WooCommerce checkout fields map:": [
+        null,
+        ""
+      ],
+      "Connect WooCommerce checkout fields to appropriate form fields. This allows you to pre-fill WooCommerce checkout fields after redirect to checkout.": [
+        null,
+        ""
+      ],
+      "Filter": [
+        null,
+        ""
+      ],
+      "Day-Month-Year": [
+        null,
+        ""
+      ],
+      "Clear Filters": [
+        null,
+        ""
+      ],
+      "No appointments found": [
+        null,
+        ""
+      ],
+      "Select Date": [
+        null,
+        ""
+      ],
+      "From": [
+        null,
+        ""
+      ],
+      "To": [
+        null,
+        ""
+      ],
+      "Time Interval": [
+        null,
+        ""
+      ],
+      "Services: Privider": [
+        null,
+        ""
+      ],
+      "Results pre page:": [
+        null,
+        ""
+      ],
+      "Delete": [
+        null,
+        ""
+      ],
+      "Are you sure? Deleted appointment can't be restored.": [
+        null,
+        ""
+      ],
+      "Close": [
+        null,
+        ""
+      ],
+      "Appointment Details:": [
+        null,
+        ""
+      ],
+      "Edit Appointment:": [
+        null,
+        ""
+      ],
+      "Step 1 of 4. Connect post types": [
+        null,
+        ""
+      ],
+      "To start you need to create a post type for appointment services (and providers if you need it). If you have already created the required post types, please select it from the list below. If no - please go to <a href=\"%1$s\">Post Types</a> page and create it.": [
+        null,
+        ""
+      ],
+      "Services post type": [
+        null,
+        ""
+      ],
+      "Select post type to fill services from": [
+        null,
+        ""
+      ],
+      "Add providers": [
+        null,
+        ""
+      ],
+      "Check this if you want to manage services providers": [
+        null,
+        ""
+      ],
+      "Provider post type": [
+        null,
+        ""
+      ],
+      "Select post type to fill providers from": [
+        null,
+        ""
+      ],
+      "Step 2 of 4. Setup DB tables": [
+        null,
+        ""
+      ],
+      "Required columns": [
+        null,
+        ""
+      ],
+      "Minimum set of required DB columns": [
+        null,
+        ""
+      ],
+      "New DB Column": [
+        null,
+        ""
+      ],
+      "Column name": [
+        null,
+        ""
+      ],
+      "Name for additional DB column": [
+        null,
+        ""
+      ],
+      "Step 3 of 4. Setup working hours and days off": [
+        null,
+        ""
+      ],
+      "Step 4 of 4. Setup additional options": [
+        null,
+        ""
+      ],
+      "WooCommerce Integration": [
+        null,
+        ""
+      ],
+      "Check this to connect appointments with WooCommerce checkout": [
+        null,
+        ""
+      ],
+      "Create a Single Service Booking Form": [
+        null,
+        ""
+      ],
+      "Create a booking form for a single service page (without services select field). JetEngine forms module should be enabled": [
+        null,
+        ""
+      ],
+      "Create Sample Page Booking Form": [
+        null,
+        ""
+      ],
+      "Create booking form for any static page (with services select field). JetEngine forms module should be enabled": [
+        null,
+        ""
+      ],
+      "Congratulations! You're all set!": [
+        null,
+        ""
+      ],
+      "Post Types": [
+        null,
+        ""
+      ],
+      "Manage Services": [
+        null,
+        ""
+      ],
+      "Manage Providers": [
+        null,
+        ""
+      ],
+      "Enabled": [
+        null,
+        ""
+      ],
+      "Disabled": [
+        null,
+        ""
+      ],
+      "Related product": [
+        null,
+        ""
+      ],
+      "Created Forms": [
+        null,
+        ""
+      ],
+      "<b>Note:</b> If you added additional DB columns, you need to add appropriate fields to the forms and notification settings.": [
+        null,
+        ""
+      ],
+      "To make all settings safe, you can disable Set Up Wizard in plugin settings (<b>Advanced</b> tab)": [
+        null,
+        ""
+      ],
+      "Go to plugin settings": [
+        null,
+        ""
+      ],
+      "Prev": [
+        null,
+        ""
+      ],
+      "Finish": [
+        null,
+        ""
+      ],
+      "Next": [
+        null,
+        ""
+      ],
+      "Plugin is already set up.": [
+        null,
+        ""
+      ],
+      "If you want to reset current plugin data and set it again press the button below": [
+        null,
+        ""
+      ],
+      "Reset": [
+        null,
+        ""
+      ],
+      "Availability check by": [
+        null,
+        ""
+      ],
+      "Select type of slots availability check - through all services or independent by each service": [
+        null,
+        ""
+      ],
+      "Through all services": [
+        null,
+        ""
+      ],
+      "By each service": [
+        null,
+        ""
+      ],
+      "Hide Set Up Wizard": [
+        null,
+        ""
+      ],
+      "Check this to hide Set Up page to avoid unnecessary plugin resets": [
+        null,
+        ""
+      ],
+      "Manage Capacity": [
+        null,
+        ""
+      ],
+      "Allow to manage services capacity": [
+        null,
+        ""
+      ],
+      "Show Capacity Counter": [
+        null,
+        ""
+      ],
+      "Show service capacity count in slots": [
+        null,
+        ""
+      ],
+      "Slot time format": [
+        null,
+        ""
+      ],
+      "Select time format for available slots list": [
+        null,
+        ""
+      ],
+      "Use custom labels": [
+        null,
+        ""
+      ],
+      "Check this change default weekdays and month labels": [
+        null,
+        ""
+      ],
+      "By default: Sun": [
+        null,
+        ""
+      ],
+      "By default: Mon": [
+        null,
+        ""
+      ],
+      "By default: Tue": [
+        null,
+        ""
+      ],
+      "By default: Wed": [
+        null,
+        ""
+      ],
+      "By default: Thu": [
+        null,
+        ""
+      ],
+      "By default: Fri": [
+        null,
+        ""
+      ],
+      "By default: Sat": [
+        null,
+        ""
+      ],
+      "January": [
+        null,
+        ""
+      ],
+      "By default: January": [
+        null,
+        ""
+      ],
+      "February": [
+        null,
+        ""
+      ],
+      "By default: February": [
+        null,
+        ""
+      ],
+      "March": [
+        null,
+        ""
+      ],
+      "By default: March": [
+        null,
+        ""
+      ],
+      "April": [
+        null,
+        ""
+      ],
+      "By default: April": [
+        null,
+        ""
+      ],
+      "May": [
+        null,
+        ""
+      ],
+      "By default: May": [
+        null,
+        ""
+      ],
+      "June": [
+        null,
+        ""
+      ],
+      "By default: June": [
+        null,
+        ""
+      ],
+      "July": [
+        null,
+        ""
+      ],
+      "By default: July": [
+        null,
+        ""
+      ],
+      "August": [
+        null,
+        ""
+      ],
+      "By default: August": [
+        null,
+        ""
+      ],
+      "September": [
+        null,
+        ""
+      ],
+      "By default: September": [
+        null,
+        ""
+      ],
+      "October": [
+        null,
+        ""
+      ],
+      "By default: October": [
+        null,
+        ""
+      ],
+      "November": [
+        null,
+        ""
+      ],
+      "By default: November": [
+        null,
+        ""
+      ],
+      "December": [
+        null,
+        ""
+      ],
+      "By default: December": [
+        null,
+        ""
+      ],
+      "Clear excluded dates cache": [
+        null,
+        ""
+      ],
+      "Remove all dates from excluded dates table": [
+        null,
+        ""
+      ],
+      "Additional table columns": [
+        null,
+        ""
+      ],
+      "You can add any columns you want to Appointments table. We recommend add cloumns only on plugin set up. When you added new columns, you need to map these columns to apopriate form field in related booking form.": [
+        null,
+        ""
+      ],
+      "Warning:": [
+        null,
+        ""
+      ],
+      "If you change or remove any columns, all data stored in this columns will be lost!": [
+        null,
+        ""
+      ],
+      "Save and update appointments table": [
+        null,
+        ""
+      ],
+      "Booking Schedule": [
+        null,
+        ""
+      ],
+      "Select the default duration for each service and provider time slot": [
+        null,
+        ""
+      ],
+      "Buffer Time Before Slot": [
+        null,
+        ""
+      ],
+      "Buffer Time After Slot": [
+        null,
+        ""
+      ],
+      "Work Hours": [
+        null,
+        ""
+      ],
+      "+ Add": [
+        null,
+        ""
+      ],
+      "Days Off": [
+        null,
+        ""
+      ],
+      "Set the days that will be the weekend.": [
+        null,
+        ""
+      ],
+      "Add Days": [
+        null,
+        ""
+      ],
+      "Working Days": [
+        null,
+        ""
+      ],
+      "Set available days for booking.": [
+        null,
+        ""
+      ],
+      "Starts from time": [
+        null,
+        ""
+      ],
+      "Work to time": [
+        null,
+        ""
+      ],
+      "Select Days": [
+        null,
+        ""
+      ],
+      "Days Label": [
+        null,
+        ""
+      ],
+      "Name of the current day (eg. name of the holiday)": [
+        null,
+        ""
+      ],
+      "Start Date *": [
+        null,
+        ""
+      ],
+      "Pick a start day": [
+        null,
+        ""
+      ],
+      "End Date": [
+        null,
+        ""
+      ],
+      "Pick a end day": [
+        null,
+        ""
+      ],
+      "Appointment Details": [
+        null,
+        ""
+      ],
+      "Order status\u0004Pending payment": [
+        null,
+        ""
+      ],
+      "Order status\u0004Processing": [
+        null,
+        ""
+      ],
+      "Order status\u0004On hold": [
+        null,
+        ""
+      ],
+      "Order status\u0004Completed": [
+        null,
+        ""
+      ],
+      "Order status\u0004Cancelled": [
+        null,
+        ""
+      ],
+      "Order status\u0004Refunded": [
+        null,
+        ""
+      ],
+      "Order status\u0004Failed": [
+        null,
+        ""
+      ]
+    }
+  },
+}

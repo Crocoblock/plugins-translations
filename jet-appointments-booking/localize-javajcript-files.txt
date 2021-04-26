@@ -1,0 +1,16 @@
+How to localize text in JavaScript files.
+
+1. Create a localization file for the required language using the program https://poedit.net/download or another. File name example: jet-appointments-booking-uk_UA.po
+2. Open the file and make a translation
+3. Go to the website https://localise.biz/free/converter/po-to-json and convert the file po to json. The settings are shown in the screenshot https://prnt.sc/111mt9y
+4. Download, open and modify the file as shown in the screenshot https://prnt.sc/111n0xu Add option "locale_data" and change domain to "messages"
+5. Make copies of the modified file and set them names.
+- jet-appointments-booking-LOCALE-jet-apb-appointments.json
+- jet-apb-set-up-LOCALE-jet-apb-appointments.json
+- jet-apb-admin-settings-LOCALE-jet-apb-appointments.json
+Where locale is your localization. Example: jet-appointments-booking-uk_UA-jet-apb-appointments.json
+
+
+Attention.
+If files for translations have already been created jet-appointments-booking-LOCALE-jet-apb-appointments.json
+You need to copy file and change LOCALE in file name. After that, open the file, find the text and make a translation for it, like here. https://prnt.sc/111ncpf
